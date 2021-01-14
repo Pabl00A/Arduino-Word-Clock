@@ -7,7 +7,7 @@ The project is a modification of the arduino word clock of https://github.com/br
 
 There are also some changes, I will list the components used:
 
--1 Arduino esp-32
+-1 Arduino esp-32/n
 -9 1meter ws2812 strips
 -1 vinil 60x60cm
 -1 plywood 60x60cm
