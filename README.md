@@ -27,7 +27,7 @@ The distances between the center of 2 letters must be 3.3cm, so we use LED strip
 To control the LEDs we will use the library FastLED, the wiki: https://github.com/FastLED/FastLED/wiki/Frequently-Asked-Questions 
 Simulate the LED matrix I used this website https://wokwi.com/playground/neopixel-matrix  
 
-Based on http://www.brettoliver.org.uk/Word_Clock/Word_Clock.htm  https://github.com/brettoliver/wordclock
+Based on http://www.brettoliver.org.uk/Word_Clock/Word_Clock.htm      https://github.com/brettoliver/wordclock
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
@@ -58,4 +58,4 @@ Para controlar los leds usaremos la libreria FastLED, la wiki: https://github.co
 Como simulador de la matriz de LED usé esta web https://wokwi.com/playground/neopixel-matrix  
 
 
-Basado en http://www.brettoliver.org.uk/Word_Clock/Word_Clock.htm  https://github.com/brettoliver/wordclock
+Basado en http://www.brettoliver.org.uk/Word_Clock/Word_Clock.htm      https://github.com/brettoliver/wordclock
