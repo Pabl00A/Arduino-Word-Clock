@@ -27,7 +27,8 @@ The distances between the center of 2 letters must be 3.3cm, so we use LED strip
 To control the LEDs we will use the library FastLED, the wiki: https://github.com/FastLED/FastLED/wiki/Frequently-Asked-Questions 
 Simulate the LED matrix I used this website https://wokwi.com/playground/neopixel-matrix  
   
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 El proyecto consiste en crear un arduino word clock usando tiras leds y hacer una matriz 16x16  
 El proyecto es una modificación del arduino word clock de https://github.com/brettoliver/wordclock usando tiras leds ws2812 en vez de leds separados y hay que cambiar todo el código porque el suyo no nos sirve
 
