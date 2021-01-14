@@ -2,34 +2,34 @@
 
 --IN PROCESS
 
-The project consists of creating an arduino word clock using led strips
-The project is a modification of the arduino word clock of https://github.com/brettoliver/wordclock using ws2812 led strips instead of separate LEDs
-
+The project consists of creating an arduino word clock using led strips  
+The project is a modification of the arduino word clock of https://github.com/brettoliver/wordclock using ws2812 led strips instead of separate LEDs  
+  
 There are also some changes, I will list the components used:
-
--1 Arduino esp-32/n
--9 1meter ws2812 strips
--1 vinil 60x60cm
--1 plywood 60x60cm
--2 foam board 60x60cm
--1 methacrylate 60x60cm
-
-maybe:
--2 photoresistor
--1 PIR sensor
--and maybe use paper foil to make tactil sensor behind the methacrylate
-Tactil sensor youtube link: https://www.youtube.com/watch?v=V3l2Vj3lXZU
+  
+-1 Arduino esp-32  
+-9 1meter ws2812 strips  
+-1 vinil 60x60cm  
+-1 plywood 60x60cm  
+-2 foam board 60x60cm  
+-1 methacrylate 60x60cm  
+  
+maybe:  
+-2 photoresistor  
+-1 PIR sensor  
+-and maybe use paper foil to make tactil sensor behind the methacrylate  
+Tactil sensor youtube link: https://www.youtube.com/watch?v=V3l2Vj3lXZU  
 
 Like the user brettoliver, I also used Inskcape, a free program for vinyl editing, to be able to put the letters straight you must install the Droid Sans Mono font, you must tell the one who makes the vinyl to cut the letters for you. They made it perfect for me the 60x60cm vinyl with black background and cut out letters on Aliexpress for € 10 and free shipping, if you want the name of the seller, ask, I don't know if I can put the name here 
 
 
 
 
-El proyecto consiste en crear un arduino word clock usando tiras leds
-El proyecto es una modificación del arduino word clock de https://github.com/brettoliver/wordclock usando tiras leds ws2812 en vez de leds separados 
+El proyecto consiste en crear un arduino word clock usando tiras leds  
+El proyecto es una modificación del arduino word clock de https://github.com/brettoliver/wordclock usando tiras leds ws2812 en vez de leds separados  
 
-Tambien hay algunos cambios, voy a listar los componentes usados:
-
+Tambien hay algunos cambios, voy a listar los componentes usados:  
+  
 -1 Arduino esp-32
 -9 tiras de 1metro ws2812
 -1 vinilo 60x60 cm
