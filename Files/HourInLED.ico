@@ -1,0 +1,374 @@
+//THIS IS ONLY A LIST OF THE DIFFERENT HOUR IN A 16X16 LED MATRIX NOT WORKING
+
+#include <FastLED.h>
+    #define NUM_LEDS 256
+    #define DATA_PIN 3
+    CRGB leds[256];
+
+   void setup() { 
+       FastLED.addLeds<NEOPIXEL, DATA_PIN>(leds, NUM_LEDS);
+   }
+
+
+
+    void loop() { 
+
+
+/*
+
+
+      //eleven
+        leds[101] = CRGB::Blue; 
+        leds[102] = CRGB::Blue; 
+        leds[103] = CRGB::Blue;    
+        leds[104] = CRGB::Blue; 
+        leds[105] = CRGB::Blue;    
+        leds[106] = CRGB::Blue; 
+
+       //three
+        leds[107] = CRGB::Blue; 
+        leds[108] = CRGB::Blue; 
+        leds[109] = CRGB::Blue;    
+        leds[110] = CRGB::Blue; 
+        leds[111] = CRGB::Blue;        
+
+      //thirteen
+        leds[88] = CRGB::Blue; 
+        leds[89] = CRGB::Blue; 
+        leds[90] = CRGB::Blue;    
+        leds[91] = CRGB::Blue; 
+        leds[92] = CRGB::Blue; 
+        leds[93] = CRGB::Blue; 
+        leds[94] = CRGB::Blue; 
+        leds[95] = CRGB::Blue;    
+
+      //twelve
+        leds[96] = CRGB::Blue; 
+        leds[97] = CRGB::Blue; 
+        leds[98] = CRGB::Blue;    
+        leds[99] = CRGB::Blue; 
+        leds[100] = CRGB::Blue;    
+        leds[101] = CRGB::Blue; 
+
+       //fourteen
+        leds[80] = CRGB::Blue; 
+        leds[81] = CRGB::Blue; 
+        leds[82] = CRGB::Blue;    
+        leds[83] = CRGB::Blue; 
+        leds[84] = CRGB::Blue; 
+        leds[85] = CRGB::Blue; 
+        leds[86] = CRGB::Blue; 
+        leds[87] = CRGB::Blue;    
+
+      //four
+        leds[80] = CRGB::Blue; 
+        leds[81] = CRGB::Blue; 
+        leds[82] = CRGB::Blue;    
+        leds[83] = CRGB::Blue; 
+
+      //nineteen
+        leds[72] = CRGB::Blue; 
+        leds[73] = CRGB::Blue; 
+        leds[74] = CRGB::Blue;    
+        leds[75] = CRGB::Blue; 
+        leds[76] = CRGB::Blue; 
+        leds[77] = CRGB::Blue; 
+        leds[78] = CRGB::Blue; 
+        leds[79] = CRGB::Blue;    
+
+      //nine
+        leds[72] = CRGB::Blue; 
+        leds[73] = CRGB::Blue; 
+        leds[74] = CRGB::Blue;    
+        leds[75] = CRGB::Blue; 
+
+      //seventeen
+        leds[64] = CRGB::Blue; 
+        leds[65] = CRGB::Blue; 
+        leds[66] = CRGB::Blue;    
+        leds[67] = CRGB::Blue; 
+        leds[68] = CRGB::Blue; 
+        leds[69] = CRGB::Blue; 
+        leds[70] = CRGB::Blue; 
+        leds[71] = CRGB::Blue;   
+        leds[72] = CRGB::Blue;   
+
+      //seven
+        leds[64] = CRGB::Blue; 
+        leds[65] = CRGB::Blue; 
+        leds[66] = CRGB::Blue;    
+        leds[67] = CRGB::Blue; 
+        leds[68] = CRGB::Blue; 
+
+      //five
+        leds[56] = CRGB::Blue; 
+        leds[57] = CRGB::Blue; 
+        leds[58] = CRGB::Blue; 
+        leds[59] = CRGB::Blue; 
+
+      //eighteen
+        leds[48] = CRGB::Blue; 
+        leds[49] = CRGB::Blue; 
+        leds[50] = CRGB::Blue;    
+        leds[51] = CRGB::Blue; 
+        leds[52] = CRGB::Blue; 
+        leds[53] = CRGB::Blue; 
+        leds[54] = CRGB::Blue; 
+        leds[55] = CRGB::Blue; 
+      
+      //one
+        leds[44] = CRGB::Blue; 
+        leds[45] = CRGB::Blue; 
+        leds[46] = CRGB::Blue; 
+
+      //two
+        leds[42] = CRGB::Blue; 
+        leds[43] = CRGB::Blue; 
+        leds[44] = CRGB::Blue; 
+
+      //ten
+        leds[32] = CRGB::Blue; 
+        leds[33] = CRGB::Blue; 
+        leds[34] = CRGB::Blue; 
+      //sixteen
+        leds[35] = CRGB::Blue; 
+        leds[36] = CRGB::Blue; 
+        leds[37] = CRGB::Blue; 
+        leds[38] = CRGB::Blue; 
+        leds[39] = CRGB::Blue; 
+        leds[40] = CRGB::Blue; 
+	
+      //six
+        leds[35] = CRGB::Blue; 
+        leds[36] = CRGB::Blue; 
+        leds[37] = CRGB::Blue; 
+
+
+*/
+
+//TWENTY
+/*
+        leds[23] = CRGB::Blue; 
+        leds[24] = CRGB::Blue; 
+        leds[25] = CRGB::Blue; 
+        leds[26] = CRGB::Blue; 
+        leds[27] = CRGB::Blue;
+        leds[28] = CRGB::Blue; 
+*/
+
+// A QUARTER
+/*
+        leds[13] = CRGB::Blue;
+
+        leds[16] = CRGB::Blue; 
+        leds[17] = CRGB::Blue; 
+        leds[18] = CRGB::Blue; 
+        leds[19] = CRGB::Blue; 
+        leds[20] = CRGB::Blue;
+        leds[21] = CRGB::Blue; 
+        leds[22] = CRGB::Blue;
+*/
+
+//HALF
+/*
+        leds[12] = CRGB::Blue; 
+        leds[13] = CRGB::Blue; 
+        leds[14] = CRGB::Blue; 
+        leds[15] = CRGB::Blue;
+*/
+
+//THE TIME IS
+/*
+        leds[0] = CRGB::Blue; 
+        leds[1] = CRGB::Blue; 
+        leds[2] = CRGB::Blue; 
+        leds[4] = CRGB::Blue; 
+        leds[5] = CRGB::Blue; 
+        leds[6] = CRGB::Blue; 
+        leds[7] = CRGB::Blue; 
+        leds[9] = CRGB::Blue; 
+        leds[10] = CRGB::Blue; 
+ */
+        FastLED.show(); 
+        
+    }
+    
+    
+    #include <FastLED.h>
+    #define NUM_LEDS 256
+    #define DATA_PIN 3
+    CRGB leds[256];
+
+   void setup() { 
+       FastLED.addLeds<NEOPIXEL, DATA_PIN>(leds, NUM_LEDS);
+   }
+
+
+
+    void loop() { 
+
+
+
+/*
+     // evening
+        leds[208] = CRGB::Blue; 
+        leds[209] = CRGB::Blue; 
+        leds[210] = CRGB::Blue;    
+        leds[211] = CRGB::Blue; 
+        leds[212] = CRGB::Blue; 
+        leds[213] = CRGB::Blue; 
+        leds[214] = CRGB::Blue; 
+
+     // afternoon
+        leds[215] = CRGB::Blue; 
+        leds[216] = CRGB::Blue; 
+        leds[217] = CRGB::Blue;    
+        leds[218] = CRGB::Blue; 
+        leds[219] = CRGB::Blue; 
+        leds[220] = CRGB::Blue; 
+        leds[221] = CRGB::Blue; 
+        leds[222] = CRGB::Blue; 
+        leds[223] = CRGB::Blue; 
+
+     //Night
+        leds[192] = CRGB::Blue; 
+        leds[193] = CRGB::Blue; 
+        leds[194] = CRGB::Blue;    
+        leds[195] = CRGB::Blue; 
+        leds[196] = CRGB::Blue;  
+
+    // The
+        leds[196] = CRGB::Blue; 
+        leds[197] = CRGB::Blue; 
+        leds[198] = CRGB::Blue; 
+
+     // Morning
+        leds[200] = CRGB::Blue; 
+        leds[201] = CRGB::Blue; 
+        leds[202] = CRGB::Blue;    
+        leds[203] = CRGB::Blue; 
+        leds[204] = CRGB::Blue; 
+        leds[205] = CRGB::Blue; 
+        leds[206] = CRGB::Blue; 
+     //Oclock
+        leds[176] = CRGB::Blue; 
+        leds[177] = CRGB::Blue; 
+        leds[178] = CRGB::Blue;    
+        leds[179] = CRGB::Blue; 
+        leds[180] = CRGB::Blue;    
+        leds[181] = CRGB::Blue; 
+
+     //IN
+        leds[183] = CRGB::Blue; 
+        leds[184] = CRGB::Blue; 
+
+     //AT
+        leds[185] = CRGB::Blue; 
+        leds[186] = CRGB::Blue; 
+
+     //2021
+        leds[188] = CRGB::Blue; 
+        leds[189] = CRGB::Blue; 
+        leds[190] = CRGB::Blue;    
+        leds[191] = CRGB::Blue; 
+
+     //four
+        leds[160] = CRGB::Blue; 
+        leds[161] = CRGB::Blue; 
+        leds[162] = CRGB::Blue;    
+        leds[163] = CRGB::Blue; 
+
+     //five
+        leds[165] = CRGB::Blue; 
+        leds[166] = CRGB::Blue; 
+        leds[167] = CRGB::Blue;    
+        leds[168] = CRGB::Blue; 
+
+     //eight
+        leds[168] = CRGB::Blue; 
+        leds[169] = CRGB::Blue; 
+        leds[170] = CRGB::Blue;    
+        leds[171] = CRGB::Blue; 
+        leds[172] = CRGB::Blue; 
+
+     //ten
+        leds[172] = CRGB::Blue; 
+        leds[173] = CRGB::Blue; 
+        leds[174] = CRGB::Blue;  
+
+
+     //seven
+        leds[144] = CRGB::Blue; 
+        leds[145] = CRGB::Blue; 
+        leds[146] = CRGB::Blue;    
+        leds[147] = CRGB::Blue; 
+        leds[148] = CRGB::Blue; 
+
+     //three
+        leds[149] = CRGB::Blue; 
+        leds[150] = CRGB::Blue; 
+        leds[151] = CRGB::Blue;    
+        leds[152] = CRGB::Blue; 
+        leds[153] = CRGB::Blue; 
+
+     //twelve
+        leds[154] = CRGB::Blue; 
+        leds[155] = CRGB::Blue; 
+        leds[156] = CRGB::Blue;    
+        leds[157] = CRGB::Blue; 
+        leds[158] = CRGB::Blue;    
+        leds[159] = CRGB::Blue; 
+
+       //two
+        leds[128] = CRGB::Blue; 
+        leds[129] = CRGB::Blue; 
+        leds[130] = CRGB::Blue;    
+
+       //one
+        leds[130] = CRGB::Blue; 
+        leds[131] = CRGB::Blue; 
+        leds[132] = CRGB::Blue;    
+
+      //eleven
+        leds[132] = CRGB::Blue; 
+        leds[133] = CRGB::Blue; 
+        leds[134] = CRGB::Blue;    
+        leds[135] = CRGB::Blue; 
+        leds[136] = CRGB::Blue;    
+        leds[137] = CRGB::Blue; 
+
+       //nine
+        leds[137] = CRGB::Blue; 
+        leds[138] = CRGB::Blue; 
+        leds[139] = CRGB::Blue;    
+        leds[140] = CRGB::Blue; 
+
+       //six
+        leds[141] = CRGB::Blue; 
+        leds[142] = CRGB::Blue; 
+        leds[143] = CRGB::Blue;    
+
+      //minutes
+        leds[112] = CRGB::Blue; 
+        leds[113] = CRGB::Blue; 
+        leds[114] = CRGB::Blue;    
+        leds[115] = CRGB::Blue; 
+        leds[116] = CRGB::Blue;    
+        leds[117] = CRGB::Blue; 
+        leds[118] = CRGB::Blue; 
+
+       //past
+        leds[120] = CRGB::Blue; 
+        leds[121] = CRGB::Blue; 
+        leds[122] = CRGB::Blue;    
+        leds[123] = CRGB::Blue; 
+     
+       //to
+        leds[123] = CRGB::Blue; 
+        leds[124] = CRGB::Blue; 
+
+*/
+
+        FastLED.show(); 
+        
+    }
