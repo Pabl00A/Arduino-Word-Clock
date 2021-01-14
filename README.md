@@ -36,7 +36,7 @@ Tambien hay algunos cambios, voy a listar los componentes usados:
 -1 contrachapado 60x60cm
 -2 laminas cartón pluma 60x60cm
 -1 metacrilato 60x60cm
-
+ 
 Quizás:
 -2 photoresistor
 -1 sensor PIR
