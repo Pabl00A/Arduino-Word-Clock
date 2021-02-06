@@ -2,6 +2,8 @@
 
 --IN PROCESS
 
+
+
 The project consists of creating an arduino word clock using led strips and make an 16x16 Matrix  
 The project is a modification of the arduino word clock of https://github.com/brettoliver/wordclock using ws2812 led strips instead of separate LEDs and have to change all the code because brettoliver's code does not work for us  
   
