@@ -51,18 +51,22 @@ Tambien hay algunos cambios, voy a listar los componentes usados:
 -8 tiras de 1metro ws2812 de 30 leds  
 -1 vinilo 60x50 cm  
 -1 contrachapado 60x60cm  ///       En vez de esto usé un marco de amazon ta hecho con metacrilato y contrachapado
--1 metacrilato 60x60cm    ///
--2 laminas cartón pluma 60x60cm  
-   ![title](Files/frame.PNG)
+-1 metacrilato 60x60cm    /// 
+   ![title](Files/Frame.PNG)
+   
+-1 cartulina para hacer cuadros para cada led de 1.5cm 
+-4 barras de madera para darle un poco de espacio al marco
+
+-1 DS3231, al que hay que sacar una resistencia para que cargue correctamente la batería
+   ![title](Files/cutDS3231.PNG)
    
    
-Quizás:  
--1 DS3231, pero estoy viendo que no puedo usar pilas normales, asi que estoy buscando alternativas  
 -2 photoresistor  
 -1 sensor PIR  
 -y puede que use papel de aluminio para unos sensores táctiles que pasen el metacrilato,(hay que pobarlo)  
 video para los sensores táctiles https://www.youtube.com/watch?v=V3l2Vj3lXZU  
-  
+-  Soldador y estaño
+-  Bastante cable  
   
 Como el usuario brettoliver, yo tambien usé Inskcape un programa gratuito para edición de vinilos, para poder poner las letras rectas debeis instalar la fuente Droid Sans Mono, debeis decirle al que os haga el vinilo que os recorte las letras. A mí me lo hicieron perfecto el vinilo de 60x60cm con fondo negro y letras recortadas en Aliexpress por 10€ y envio gratis, si quereis nombre del vendedor preguntad, no se si puedo ponerlo aquí. En los archivos del proyecto está el .svg para modificar el vinilo.
 Las distancias entre el centro de 2 letras deben ser 3.3cm por eso usamos tiras LED de solo 30 leds ya qe vienen perfectas.  
