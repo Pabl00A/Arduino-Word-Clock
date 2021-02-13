@@ -1,9 +1,13 @@
 # Arduino-Word-Clock
 
 --IN PROCESS
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
 
-
-
+## This is the introduction <a name="introduction"></a>
 The project consists of creating an arduino word clock using led strips and make an 16x16 Matrix  
 The project is a modification of the arduino word clock of https://github.com/brettoliver/wordclock using ws2812 led strips instead of separate LEDs and have to change all the code because brettoliver's code does not work for us  
   
