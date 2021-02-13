@@ -50,21 +50,23 @@ Tambien hay algunos cambios, voy a listar los componentes usados:
 -1 Arduino esp-32  
 -8 tiras de 1metro ws2812 de 30 leds  
 -1 vinilo 60x50 cm  
--1 contrachapado 60x60cm  ///       En vez de esto usé un marco de amazon ta hecho con metacrilato y contrachapado
--1 metacrilato 60x60cm    /// 
-   ![title](Files/Frame.PNG)
-   
 -1 cartulina para hacer cuadros para cada led de 1.5cm 
 -4 barras de madera para darle un poco de espacio al marco
+-1 contrachapado 60x60cm  ///       En vez de esto usé un marco de amazon ta hecho con metacrilato y contrachapado
+-1 metacrilato 60x60cm    /// 
 
+   ![title](Files/Frame.PNG)
+   
+   
 -1 DS3231, al que hay que sacar una resistencia para que cargue correctamente la batería
+
    ![title](Files/cutDS3231.PNG)
    
-   
--2 photoresistor  
+    
 -1 sensor PIR  
 -y puede que use papel de aluminio para unos sensores táctiles que pasen el metacrilato,(hay que pobarlo)  
 video para los sensores táctiles https://www.youtube.com/watch?v=V3l2Vj3lXZU  
+
 -  Soldador y estaño
 -  Bastante cable  
   
