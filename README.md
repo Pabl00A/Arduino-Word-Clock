@@ -50,10 +50,10 @@ Tambien hay algunos cambios, voy a listar los componentes usados:
 -1 Arduino esp-32  
 -8 tiras de 1metro ws2812 de 30 leds  
 -1 vinilo 60x50 cm  
--1 cartulina para hacer cuadros para cada led de 1.5cm 
--4 barras de madera para darle un poco de espacio al marco 
--1 contrachapado 60x60cm  ///       En vez de esto usé un marco de amazon ta hecho con metacrilato y contrachapado 
--1 metacrilato 60x60cm    /// 
+-1 cartulina para hacer cuadros para cada led de 1.5cm  
+-4 barras de madera para darle un poco de espacio al marco  
+-1 contrachapado 60x60cm  ///       En vez de esto usé un marco de amazon ta hecho con metacrilato y contrachapado  
+-1 metacrilato 60x60cm    ///   
 
    ![title](Files/Frame.PNG)
    
