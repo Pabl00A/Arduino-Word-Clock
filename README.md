@@ -3,9 +3,11 @@
 --IN PROCESS
 ## Index
 1. [English](#english)
-    1. [Material](#Ematerial)
+    1. [Introduction](#english)
+    2. [Material](#Ematerial)
 2. [Spanish](#spanish)
-    1. [Material](#material)
+    1. [Introducción](#spanish)
+    2. [Material](#material)
 3. [Another paragraph](#paragraph2)
 
 ## Introduction <a name="english"></a>
