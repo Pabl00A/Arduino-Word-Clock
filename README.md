@@ -11,7 +11,7 @@
 3. [Another paragraph](#paragraph2)
 
 ## Introduction <a name="english"></a>
-The project consists of creating an arduino word clock using led strips and make an 16x16 Matrix  
+The project consists of creating an arduino word clock using led strips and make an 16x15 Matrix  
 The project is a modification of the arduino word clock of https://github.com/brettoliver/wordclock using ws2812 led strips instead of separate LEDs and have to change all the code because brettoliver's code does not work for us 
 
 ## Material <a name="Ematerial"></a>  
@@ -41,18 +41,20 @@ Based on http://www.brettoliver.org.uk/Word_Clock/Word_Clock.htm    ;   https://
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Introducción <a name="spanish"></a>  
-El proyecto consiste en crear un arduino word clock usando tiras leds y hacer una matriz 16x16  
+El proyecto consiste en crear un arduino word clock usando tiras leds y hacer una matriz 16x15
 El proyecto es una modificación del arduino word clock de https://github.com/brettoliver/wordclock usando tiras leds ws2812 en vez de leds separados y hay que cambiar todo el código porque el suyo no nos sirve
 
 ## Material <a name="material"></a>  
 Tambien hay algunos cambios, voy a listar los componentes usados:  
   
 -1 Arduino esp-32  
--9 tiras de 1metro ws2812 de 30 leds  
--1 vinilo 60x60 cm  
--1 contrachapado 60x60cm  
+-8 tiras de 1metro ws2812 de 30 leds  
+-1 vinilo 60x50 cm  
+-1 contrachapado 60x60cm  ///       En vez de esto usé un marco de amazon ta hecho con metacrilato y contrachapado
+-1 metacrilato 60x60cm    ///
 -2 laminas cartón pluma 60x60cm  
--1 metacrilato 60x60cm  
+   ![title](Files/frame.png)
+   
    
 Quizás:  
 -1 DS3231, pero estoy viendo que no puedo usar pilas normales, asi que estoy buscando alternativas  
