@@ -1,13 +1,13 @@
 # Arduino-Word-Clock
 
 --IN PROCESS
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
+## Index
+1. [English](#english)
+2. [Spanish](#spanish)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
+## Introduction <a name="english"></a>
 The project consists of creating an arduino word clock using led strips and make an 16x16 Matrix  
 The project is a modification of the arduino word clock of https://github.com/brettoliver/wordclock using ws2812 led strips instead of separate LEDs and have to change all the code because brettoliver's code does not work for us  
   
@@ -36,7 +36,7 @@ Simulate the LED matrix I used this website https://wokwi.com/playground/neopixe
 Based on http://www.brettoliver.org.uk/Word_Clock/Word_Clock.htm    ;   https://github.com/brettoliver/wordclock
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+## Introducción <a name="spanish"></a>  
 El proyecto consiste en crear un arduino word clock usando tiras leds y hacer una matriz 16x16  
 El proyecto es una modificación del arduino word clock de https://github.com/brettoliver/wordclock usando tiras leds ws2812 en vez de leds separados y hay que cambiar todo el código porque el suyo no nos sirve
 
