@@ -53,7 +53,7 @@ Tambien hay algunos cambios, voy a listar los componentes usados:
 -1 contrachapado 60x60cm  ///       En vez de esto usé un marco de amazon ta hecho con metacrilato y contrachapado
 -1 metacrilato 60x60cm    ///
 -2 laminas cartón pluma 60x60cm  
-   ![title](Files/frame.png)
+   ![title](Files/frame.PNG)
    
    
 Quizás:  
